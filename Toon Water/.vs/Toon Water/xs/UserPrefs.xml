@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{3D1DB5BC-74FD-EF52-F717-450384B4BBB3}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Texutre_Scroller.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Perlin_Water.cs" Line="39" Column="40" />
+      <File FileName="Assets/Scripts/Texutre_Scroller.cs" Line="11" Column="54" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="f7d4245b-3d6d-4d5e-b25f-ae72725a3b98" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
